@@ -78,4 +78,8 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 https://v3.playerlatino.live/stream/m3u8/145
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png"
 https://v3.playerlatino.live/stream/m3u8/83
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+https://v3.playerlatino.live/stream/m3u8/20
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+https://v3.playerlatino.live/stream/m3u8/739
 
