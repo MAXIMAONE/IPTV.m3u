@@ -120,6 +120,8 @@ https://v3.playerlatino.live/stream/m3u8/511
 https://v3.playerlatino.live/stream/m3u8/58
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
 https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
+http://181.189.243.254:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
 https://v3.playerlatino.live/stream/m3u8/62
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png"
@@ -180,5 +182,6 @@ https://v3.playerlatino.live/stream/m3u8/99
 https://v3.playerlatino.live/stream/m3u8/413
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png"
 https://v3.playerlatino.live/stream/m3u8/292
+
 
 
