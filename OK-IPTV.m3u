@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058"
+http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=410&token=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.cartoonnetwork.com/prismo/apps/icon/lq5Ca_Fs.png"
+http://45.5.117.182:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id=" ESPN EXTRA USA" tvg-logo="https://pbs.twimg.com/media/Eo6jO57XYAMJ0k_.jpg"
+http://181.189.243.254:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png"
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png"
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=972829707&_cdn_timestamp=1689746338&_cdn_token=e08769b572ce10b727b4a0c90b95545142ba9067
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg"
+http://45.228.234.162:24000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="Claro Sports 2 HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1672073379338-Claro_sports_2.webp"
+http://181.189.243.254:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-id="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png"
+https://v3.playerlatino.live/stream/m3u8/444
+#EXTINF:-1 tvg-id="CINE ROMANCE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
+https://v3.playerlatino.live/stream/m3u8/689
+#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
+http://181.189.243.254:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
+http://181.189.243.254:8000/play/a0os/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
+http://181.189.243.254:8000/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png"
+http://181.189.243.254:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.io/Wz3WemY_d.webp?maxwidth=640&shape=thumb&fidelity=medium"
+http://181.189.243.254:8000/play/a0ov/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-colorido-fundo-branco.jpg"
+https://v3.playerlatino.live/stream/m3u8/184
+#EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
+https://v3.playerlatino.live/stream/m3u8/692
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://w7.pngwing.com/pngs/586/19/png-transparent-telemundo-logo-universo-nbcuniversal-luis-miguel-television-text-logo.png"
+https://v3.playerlatino.live/stream/m3u8/92
+#EXTINF:-1 tvg-id=" Universal Crime" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png"
+http://181.189.243.254:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
+http://181.189.243.254:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://universalplus.com/files/channels/120254749.png"
+http://181.189.243.254:8000/play/a0sz/index.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png"
+https://v3.playerlatino.live/stream/m3u8/292
+
+
+
