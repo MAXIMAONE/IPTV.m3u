@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://pbs.twimg.com/profile_images/1612332068700037121/KVVT242G_400x400.jpg"
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es"
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="AZTECA-7" tvg-logo="https://www.paredro.com/wp-content/uploads/2016/12/antes.jpeg"
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="A MAS+" tvg-logo="https://pbs.twimg.com/profile_images/1612325631907463168/EO5_RUfO_400x400.jpg"
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="ORIGEN TV" tvg-logo="C:\Users\Administrador\Pictures\LOGOS TV"
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 6 MONTERREY" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQnUY3XHSVdbRuetsJSxKL9RIn7QIQexwTdX5cLB8=s900-c-k-c0x00ffffff-no-rj"
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/JstTpwTCz9U/hqdefault.jpg" group-title="Colombia",Canal 1 Colombia 
+https://v3.playerlatino.live/stream/m3u8/774
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://www.formulatv.com/images/noticias/56600/56607/1_26107a0341.jpg"
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://pbs.twimg.com/media/Fyho4Q3WwAEHA8R.jpg"
+https://v3.playerlatino.live/stream/m3u8/53
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png"
+https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:-1 tvg-id="FOX-SPORTS-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png"
+https://v3.playerlatino.live/stream/m3u8/511
+#EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"
+https://v3.playerlatino.live/stream/m3u8/527
+#EXTINF:-1 tvg-id=" TIGO SPORTS" tvg-logo="https://i.pinimg.com/originals/5c/72/a6/5c72a626639831531789ea2d91ed3b86.jpg"
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Super Kaos TV" tvg-logo="https://img.freepik.com/free-vector/super-kiddo-logo-text-design_1308-73110.jpg"
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xtrema Retro Cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp"
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="Xtrema Cartoons" tvg-logo="https://m.media-amazon.com/images/I/514kR46dEwL._AC_UF1000,1000_QL80_.jpg"
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+
