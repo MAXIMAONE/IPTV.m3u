@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058"
-http://regioplay.xyz/php/SR_REGIO_105023_/vix.php?c=410&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.cartoonnetwork.com/prismo/apps/icon/lq5Ca_Fs.png"
 http://45.5.117.182:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id=" ESPN EXTRA USA" tvg-logo="https://pbs.twimg.com/media/Eo6jO57XYAMJ0k_.jpg"
