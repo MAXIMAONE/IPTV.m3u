@@ -23,7 +23,7 @@ https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
-http://177.53.153.21:8001/play/a03b/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/62
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
@@ -104,3 +104,4 @@ https://v3.playerlatino.live/stream/m3u8/200
 https://v3.playerlatino.live/stream/m3u8/151
 #EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://www.tvconexion.com/img/cinecanal.png"
 https://v3.playerlatino.live/stream/m3u8/18
+
