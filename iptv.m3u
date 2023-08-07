@@ -4,8 +4,6 @@
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.cartoonnetwork.com/prismo/apps/icon/lq5Ca_Fs.png"
 http://45.5.117.182:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id=" ESPN EXTRA USA" tvg-logo="https://pbs.twimg.com/media/Eo6jO57XYAMJ0k_.jpg"
-http://177.53.153.21:8001/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
@@ -16,20 +14,24 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Claro Sports 2 HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1672073379338-Claro_sports_2.webp"
 http://181.189.243.254:8000/play/a0on/index.m3u8
-#EXTINF:-1 tvg-id="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png"
-https://v3.playerlatino.live/stream/m3u8/444
 #EXTINF:-1 tvg-id="CINE ROMANCE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
 https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://pbs.twimg.com/media/Fyho4Q3WwAEHA8R.jpg"
+https://v3.playerlatino.live/stream/m3u8/53
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png"
+https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:-1 tvg-id="FOX-SPORTS-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png"
+https://v3.playerlatino.live/stream/m3u8/511
+#EXTINF:-1 tvg-id="FOX SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"
+https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
 https://v3.playerlatino.live/stream/m3u8/62
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
 http://177.53.153.21:8001/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png"
-http://201.218.137.242:8000/play/a00a
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.io/Wz3WemY_d.webp?maxwidth=640&shape=thumb&fidelity=medium"
 http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="HBO PO" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg"
@@ -42,8 +44,6 @@ https://v3.playerlatino.live/stream/m3u8/92
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
 http://177.53.153.21:8001/play/a0aw/index.m3u8
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg"
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1009686019&_cdn_timestamp=1690971857&_cdn_token=7ad6358ed61c7dbd135a8308b6514d01406f3206
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
 http://201.218.137.232:4123/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png"
