@@ -22,15 +22,9 @@ http://177.53.153.21:8001/play/a04g/index.m3u8
 http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="HBO PO" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg"
 http://177.53.153.21:8001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
-https://v3.playerlatino.live/stream/m3u8/692
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://w7.pngwing.com/pngs/586/19/png-transparent-telemundo-logo-universo-nbcuniversal-luis-miguel-television-text-logo.png"
-https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
 http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
 http://201.218.137.232:4123/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png"
-https://v3.playerlatino.live/stream/m3u8/292
 #EXTINF:-1 tvg-id=" Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
