@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="Golden Edge"
+https://v3.playerlatino.live/stream/m3u8/57
+#EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.cartoonnetwork.com/prismo/apps/icon/lq5Ca_Fs.png"
+http://45.5.117.182:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png"
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"
+#EXTINF:-1 tvg-id="FOX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"
+http://181.78.8.90:16123/play/ch20
+#EXTINF:-1 tvg-id="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/640px-Fox_Sports_3_Argentina_2023.svg.png"
+http://181.78.8.90:16123/play/ch21
+#EXTINF:-1 tvg-id="TNT Sports 4 Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png"
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="NBC-SPORTS-CALIFORNIA" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/nbc-Cali.png"
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF:-1 tvg-id="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png"
+https://v3.playerlatino.live/stream/m3u8/91
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png"
+https://v3.playerlatino.live/stream/m3u8/83
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
+https://v3.playerlatino.live/stream/m3u8/102
+#EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
+http://177.53.153.21:8001/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.io/Wz3WemY_d.webp?maxwidth=640&shape=thumb&fidelity=medium"
+http://177.53.153.21:8001/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
+https://v3.playerlatino.live/stream/m3u8/62
+#EXTINF:-1 tvg-id="HBO PO" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg"
+http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
+https://v3.playerlatino.live/stream/m3u8/692
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://w7.pngwing.com/pngs/586/19/png-transparent-telemundo-logo-universo-nbcuniversal-luis-miguel-television-text-logo.png"
+https://v3.playerlatino.live/stream/m3u8/92
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
+http://177.53.153.21:8001/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
+https://v3.playerlatino.live/stream/m3u8/84
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
+http://201.218.137.232:4123/play/a042/index.m3u8 
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/mtv-television-vector-logo.png"
+https://v3.playerlatino.live/stream/m3u8/70
+#EXTINF:-1 tvg-id=" Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"
+https://v3.playerlatino.live/stream/m3u8/145
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
+https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:-1 tvg-id="Discovery Channe 2" tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG"
+https://v3.playerlatino.live/stream/m3u8/639
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
+https://v3.playerlatino.live/stream/m3u8/25
+#EXTINF:-1 tvg-id="Discovery SCI" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png"
+https://v3.playerlatino.live/stream/m3u8/26
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://1.bp.blogspot.com/-gxZBhpqcOkg/X1iPOEUHssI/AAAAAAAABDA/lyJhdRjPYo4XtnCix2a0Ij1K0t-bcQf2QCLcBGAsYHQ/s1600/id.png"
+https://v3.playerlatino.live/stream/m3u8/68
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1000px-Comedy_Central_2018.svg.png"
+https://v3.playerlatino.live/stream/m3u8/719
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png"
+https://v3.playerlatino.live/stream/m3u8/739
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.tvconexion.com/img/tnt-series.png"
+https://v3.playerlatino.live/stream/m3u8/179
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.merca20.com/wp-content/uploads/2016/02/logo-de-tnt-2016.jpg"
+https://v3.playerlatino.live/stream/m3u8/90
+#EXTINF:-1 tvg-id="History Channel " tvg-logo="https://www.sintelevisionhd.com/img/history.png"
+https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:-1 tvg-id="CINE ROMANSE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
+https://v3.playerlatino.live/stream/m3u8/689
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg"
+https://v3.playerlatino.live/stream/m3u8/633
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-clipart-animal-planet-television-channel-animal-logo-television-text.png"
+https://v3.playerlatino.live/stream/m3u8/3
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-2009.png"
+https://v3.playerlatino.live/stream/m3u8/78
+#EXTINF:-1 tvg-id="TEENNICK" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTys563VlBJWjjnVd56bkHvtx5HWrkg6bhq73JF1Q=s900-c-k-c0x00ffffff-no-rj"
+https://v3.playerlatino.live/stream/m3u8/882
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"
+https://v3.playerlatino.live/stream/m3u8/200
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png"
+https://v3.playerlatino.live/stream/m3u8/8
+
+
