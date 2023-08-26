@@ -59,11 +59,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE ROMANSE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
 https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-clipart-animal-planet-television-channel-animal-logo-television-text.png"
-https://v3.playerlatino.live/stream/m3u8/3
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-2009.png"
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1106966075&_cdn_timestamp=1693294353&_cdn_token=e2c1c68adac50d1613fa38f2f808bdec981b11db
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1106994571&_cdn_timestamp=1693295798&_cdn_token=eb47f04bd105e3c2d070475520a0df6df9355b20
+
 
 
