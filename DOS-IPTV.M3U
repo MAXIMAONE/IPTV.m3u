@@ -79,6 +79,10 @@ http://177.53.153.21:8001/play/a08l/index.m3u8
 https://v3.playerlatino.live/stream/m3u8/200
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/mtv-television-vector-logo.png"
 https://v3.playerlatino.live/stream/m3u8/70
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png"
+https://v3.playerlatino.live/stream/m3u8/8
+#EXTINF:-1 tvg-id="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png"
+https://v3.playerlatino.live/stream/m3u8/91
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://www.tvconexion.com/img/starchannel.png" 
 https://v3.playerlatino.live/stream/m3u8/682
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png"
@@ -99,4 +103,5 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cd
 https://v3.playerlatino.live/stream/m3u8/76
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://www.fulltv.com.ar/images/tv/natgeo-wild-87.png"
 https://v3.playerlatino.live/stream/m3u8/77
+
 
