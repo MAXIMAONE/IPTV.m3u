@@ -25,18 +25,12 @@ http://181.78.8.90:16123/play/ch21
 http://201.218.137.232:4123/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.tvconexion.com/img/tnt-series.png"
-https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.tvconexion.com/img/tnt.png"
-https://v3.playerlatino.live/stream/m3u8/179
 #EXTINF:-1 tvg-id="NBC-SPORTS-CALIFORNIA" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/nbc-Cali.png"
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
 http://181.78.8.90:16123/play/ch17
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
-https://v3.playe#EXTINF:-1 tvg-id="AXN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg"rlatino.live/stream/m3u8/64
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
@@ -49,59 +43,16 @@ https://v3.playerlatino.live/stream/m3u8/62
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
 https://v3.playerlatino.live/stream/m3u8/692
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1118838227&_cdn_timestamp=1693540038&_cdn_token=db18d1e71b11a7ca1d7afe955051f1f86777881e
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
-https://v3.playerlatino.live/stream/m3u8/146
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg"
-https://v3.playerlatino.live/stream/m3u8/714
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
 http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png"
 http://177.53.153.21:8001/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1118849811&_cdn_timestamp=1693540223&_cdn_token=4b6451587577b53d578135eb5b23f37d73a55964
-#EXTINF:-1 tvg-id="Universal tv" tvg-logo="https://universalplus.com/assets/logo.jpg"
-https://v3.playerlatino.live/stream/m3u8/184
 #EXTINF:-1 tvg-id=" Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE ROMANSE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
 https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-1988-2009.png"
-https://v3.playerlatino.live/stream/m3u8/79
-#EXTINF:-1 tvg-id="Nick" tvg-logo="https://w7.pngwing.com/pngs/427/35/png-transparent-nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-television-text-orange.png"
-https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png"
-https://v3.playerlatino.live/stream/m3u8/83
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
 http://177.53.153.21:8001/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"
-https://v3.playerlatino.live/stream/m3u8/200
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/mtv-television-vector-logo.png"
-https://v3.playerlatino.live/stream/m3u8/70
-#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png"
-https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:-1 tvg-id="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png"
-https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://www.tvconexion.com/img/starchannel.png" 
-https://v3.playerlatino.live/stream/m3u8/682
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png"
-https://v3.playerlatino.live/stream/m3u8/20
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
-https://v3.playerlatino.live/stream/m3u8/22
-#EXTINF:-1 tvg-id="Discovery SCI" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png"
-https://v3.playerlatino.live/stream/m3u8/26
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"
-https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png"
-https://v3.playerlatino.live/stream/m3u8/187
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png"
-https://v3.playerlatino.live/stream/m3u8/67
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg"
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1118858635&_cdn_timestamp=1693540343&_cdn_token=4e1042b4c40cdc695942fe2c3307a4bb3c060a32
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
-https://v3.playerlatino.live/stream/m3u8/76
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://www.fulltv.com.ar/images/tv/natgeo-wild-87.png"
-https://v3.playerlatino.live/stream/m3u8/77
+
 
 
