@@ -25,12 +25,8 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://181.78.8.90:16123/play/ch20
 #EXTINF:-1 tvg-id="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/640px-Fox_Sports_3_Argentina_2023.svg.png"
 http://181.78.8.90:16123/play/ch21
-#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"
-http://201.218.137.232:4123/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="NBC-SPORTS-CALIFORNIA" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/nbc-Cali.png"
-http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
 http://181.78.8.90:16123/play/ch17
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
@@ -45,16 +41,12 @@ http://177.53.153.21:8001/play/a04h/index.m3u8
 http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg"
 http://177.53.153.21:8001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
-https://v3.playerlatino.live/stream/m3u8/692
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
 http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png"
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id=" Extrema TV" tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CINE ROMANSE" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg?p=facebook"
-https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
 http://177.53.153.21:8001/play/a08l/index.m3u8
 
