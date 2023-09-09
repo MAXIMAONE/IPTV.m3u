@@ -8,6 +8,10 @@ http://45.5.117.182:8000/play/a0en/index.m3u8
 http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
 http://177.53.153.21:8001/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp"
+http://177.53.153.21:8001/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id=" GALAVISION" tvg-logo="https://st1.uvnimg.com/7a/94/c2920c2c432b933a4292b8eb5ea3/galavision-universal.jpg"
+http://svtv.xyz:8080/sandra30abril/CQNFV/109675
 #EXTINF:-1 tvg-id="TELEMUNDO CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
@@ -38,7 +42,7 @@ http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://i.imgur.io/Wz3WemY_d.webp?maxwidth=640&shape=thumb&fidelity=medium"
 http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.tvconexion.com/img/hbo.png"
-https://v3.playerlatino.live/stream/m3u8/62
+http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg"
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Retro Music" tvg-logo="https://i.iinfo.cz/images/275/retro-music-tv-1.jpg"
@@ -53,6 +57,5 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
 http://177.53.153.21:8001/play/a08l/index.m3u8
-
 
 
