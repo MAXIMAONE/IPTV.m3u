@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="MLB PLAY-OFF" tvg-logo="https://i0.wp.com/lospleyers.com/wp-content/uploads/2021/02/logo-mlb-1.jpg?fit=1280%2C720&quality=80&ssl=1"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/137088
 #EXTINF:-1 tvg-id=" GOLDEN PREMIER" tvg-logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/goldenpremier_estandar.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/133789
 #EXTINF:-1 tvg-id="Golden Edge" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png"
@@ -179,6 +182,10 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3010
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/160071
 #EXTINF:-1 tvg-id=" ESPN STAR+ (SOLO EVENTOS)" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2021/08/Star-Plus-ESPN-760x421.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/160068
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" 
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/149690
+
+
 
 
 
