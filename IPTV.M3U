@@ -59,18 +59,20 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3329
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="NBC-SPORTS-CALIFORNIA" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/nbc-Cali.png"
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/148460
+#EXTINF:-1 tvg-id="ESPN PREMIUM 2" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145417
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3036
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3852
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2793
-#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145417
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2821
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/151115
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/478
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2793
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
@@ -161,9 +163,9 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/129047
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3725
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/7989
-#EXTINF:-1 tvg-id="AXN WHITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png"
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://vod.roams.es/images/post/es_ES_vod/canales-axn.svg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4912
-#EXTINF:-1 tvg-id="AXN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg"
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126366
 #EXTINF:-1 tvg-id="AXN MX" tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3704
@@ -176,9 +178,9 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4910
 #EXTINF:-1 tvg-id="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1200px-Starz_Cinema_logo.svg.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3884
 #EXTINF:-1 tvg-id="STAR CHANNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2695
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/150088
 #EXTINF:-1 tvg-id="star" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2693
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4944
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2826
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://pbs.twimg.com/profile_images/552206784077631488/3JeMR02L_400x400.jpeg"
@@ -225,8 +227,10 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3798
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/148744
 #EXTINF:-1 tvg-id=CINEMA DINAMITA"" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4806
+#EXTINF:-1 tvg-id="CINE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/aa/TV_Movie_Logo.svg/1200px-TV_Movie_Logo.svg.png"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/167506
 
-ODE HOY
+30 hoy
 
 
 
