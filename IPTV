@@ -37,14 +37,16 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4853
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/146542
 #EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/131981
+#EXTINF:-1 tvg-id="USA: Fox Sports" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbcoNK7r1qNEfO-FSWjMFbci9KEh-qF12NHKACyHg=s900-c-k-c0x00ffffff-no-rj"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/131090
 #EXTINF:-1 tvg-id="FOX SPORT 4" tvg-logo="https://www.nicepng.com/png/detail/154-1544168_fox-sports-4-colour-fox-sports-5-hd.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/1971
 #EXTINF:-1 tvg-id="| FOX SPORTS MX" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2020/02/20/fox-sports-mexico-compradores-clubes.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/134468
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3313
-#EXTINF:-1 tvg-id="FOX SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/640px-Fox_Sports_3_Argentina_2023.svg.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2789
+#EXTINF:-1 tvg-id=" FOX SPORTS 2 ᴾᴿᴵᴹᴱᴿᴬ " tvg-logo="https://sfntv.co/webp/logos/optimized/fsport2.webp"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145407
 #EXTINF:-1 tvg-id="FOX STAR TV" tvg-logo="https://i0.wp.com/lavereda.com.ar/wp-content/uploads/2021/02/str-channel.jpg?fit=1200%2C675&ssl=1"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4942
 #EXTINF:-1 tvg-id="DIRECTV SPORT" tvg-logo="https://www.cdnlogo.com/logos/d/3/directv-sports.svg"
@@ -69,8 +71,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3036
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2821
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/151115
-#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/478
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/e5a351d1-297b-456d-acaa-d0296cc3d19a"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2793
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
@@ -209,10 +209,8 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126162
 #EXTINF:-1 tvg-id="USA TV" tvg-logo="https://i.pinimg.com/736x/ff/65/90/ff6590975bb38299e066497e6f7eb9c7.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3010
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126229
-#EXTINF:-1 tvg-id="ESPN 4 tvg-logo="https://pbs.twimg.com/media/FFgbMMcXwAAXWYX.jpg"
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://pbs.twimg.com/media/FFgbMMcXwAAXWYX.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145420
-#EXTINF:-1 tvg-id=" ESPN STAR+ (SOLO EVENTOS)" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2021/08/Star-Plus-ESPN-760x421.jpg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/160068
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/150269
 #EXTINF:-1 tvg-id="Univision Tlnovelas" tvg-logo="https://image.pngaaa.com/550/413550-middle.png"
@@ -223,12 +221,14 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/148744
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4806
 #EXTINF:-1 tvg-id="CINE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/aa/TV_Movie_Logo.svg/1200px-TV_Movie_Logo.svg.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/167506
+#EXTINF:-1 tvg-id="El señor de los cielos SERIE" tvg-logo="https://lareinadelsur3.com/wp-content/uploads/2023/01/El-Senor-de-los-Cielos-8.jpg"
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/154856
 
 
 
 
 
-
+VIERNES
 
 
 
