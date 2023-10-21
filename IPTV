@@ -27,8 +27,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4793
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="TELEMUNDO 02" tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO 01" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/148735
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/141351
 #EXTINF:-1 tvg-id="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/640px-CNN_International_logo.svg.png"
@@ -54,7 +52,7 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145404
 #EXTINF:-1 tvg-id="CLARO 2 TV" tvg-logo="https://download.logo.wine/logo/Claro_TV/Claro_TV-Logo.wine.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/153566
 #EXTINF:-1 tvg-id="CLARO SPORTS" tvg-logo="https://holatelcel.com/wp-content/uploads/2016/08/logo-claro-sports.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4848
+http://2.00322.xyz:8000/maximacinema77/6C05871SP2/161000
 #EXTINF:-1 tvg-id="CLARO CINEMA" tvg-logo="https://uspto.report/TM/86830508/mark.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4294
 #EXTINF:-1 tvg-id="MOVISTAR PLUS TV" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png"
@@ -69,8 +67,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/145417
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3036
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2821
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/151115
 #EXTINF:-1 tvg-id="HBO+" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/e5a351d1-297b-456d-acaa-d0296cc3d19a"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/2793
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_512.943a94f.png"
@@ -126,8 +122,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/131331
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/MTV-logo.png"
 #EXTINF:-1 tvg-id=" CUMBIA DRIVE MIX" tvg-logo="https://i.scdn.co/image/ab67616d0000b273f2de0ed7dde81c059157b34e"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/161033
-#EXTINF:-1 tvg-id="VIX PREMIUM LA LIGA" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2023/05/ViX-Premium.jpg"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/153567
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3007
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg"
@@ -142,8 +136,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/129037
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/153596
 #EXTINF:-1 tvg-id="DISCOVERY TV" tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-B1541007FE-seeklogo.com.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126179
-#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="https://www.underconsideration.com/brandnew/archives/investigation_discovery_logo_before_after.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/132576
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4791
 #EXTINF:-1 tvg-id="Discovery SCI" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png"
@@ -204,8 +196,6 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/131133
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/150097
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/135672
-#EXTINF:-1 tvg-id="SYFY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/SYFY_Logo_2020.png/800px-SYFY_Logo_2020.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126162
 #EXTINF:-1 tvg-id="USA TV" tvg-logo="https://i.pinimg.com/736x/ff/65/90/ff6590975bb38299e066497e6f7eb9c7.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/3010
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/126229
@@ -217,18 +207,12 @@ http://2.00322.xyz:8000/maximacinema77/6C05871SP2/150269
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/131311
 #EXTINF:-1 tvg-id="UNIVISION TX" tvg-logo="https://seeklogo.com/images/U/univision-logo-CC4269F5FF-seeklogo.com.png"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/148744
-#EXTINF:-1 tvg-id=CINEMA DINAMITA"" tvg-logo="https://w7.pngwing.com/pngs/724/805/png-transparent-canal-cinema-dynamite-cinematography-cinema-dinamita-dynamite-text-logo-brand.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/4806
-#EXTINF:-1 tvg-id="CINE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/aa/TV_Movie_Logo.svg/1200px-TV_Movie_Logo.svg.png"
-http://2.00322.xyz:8000/maximacinema77/6C05871SP2/167506
 #EXTINF:-1 tvg-id="El señor de los cielos SERIE" tvg-logo="https://lareinadelsur3.com/wp-content/uploads/2023/01/El-Senor-de-los-Cielos-8.jpg"
 http://2.00322.xyz:8000/maximacinema77/6C05871SP2/154856
 
 
 
-
-
-VIERNES
+sabado
 
 
 
