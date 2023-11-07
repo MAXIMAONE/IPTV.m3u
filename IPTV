@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="CHAMPIONS" tvg-logo="https://i.ibb.co/BsSh7zP/HJIKOPL-JKL.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/248390.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
