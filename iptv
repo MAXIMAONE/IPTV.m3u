@@ -4,16 +4,16 @@
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169801.ts
 #EXTINF:-1 tvg-id="CHAMPIONS" tvg-logo="https://i.ibb.co/BsSh7zP/HJIKOPL-JKL.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/248390.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181240.ts
 #EXTINF:-1 tvg-id="ESPN MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Colores.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181236.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://media.bizj.us/view/img/11166691/espn2-logo*750xx1200-675-0-263.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181241.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181240.ts
 #EXTINF:-1 tvg-id="fox sports" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169894.ts
 #EXTINF:-1 tvg-id="FOX SPORTS 2 ᴾᴿᴵᴹᴱᴿᴬ" tvg-logo="https://ipuntotv.com/IMAGES/Cabezales/4274.jpg"
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281623.ts
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181246.ts
 #EXTINF:-1 tvg-id="FOX SPORTS 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281630.ts
 #EXTINF:-1 tvg-id=" FOX SPORTS PREMIUM MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
@@ -53,8 +53,8 @@ https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169786.ts
 #EXTINF:-1 tvg-id=" SPACE ®" tvg-logo="https://orig14.deviantart.net/ed5c/f/2015/158/8/1/space_channel___3d_logo_by_eduardohurtado-d8wbylf.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/56369.ts
 #EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190737.ts
-#EXTINF:-1 tvg-id="GOLDEN 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169797.ts
+#EXTINF:-1 tvg-id="GOLDEN PLUS-" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190739.ts
 #EXTINF:-1 tvg-id="WARNER®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169788.ts
@@ -130,12 +130,20 @@ https://castlempire.site:443/23CAMILO004/2gX6jTGw48/241135.ts
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169821.ts
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://pbs.twimg.com/profile_images/1678857116788858880/SXSlGDip_400x400.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/172795.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169822.ts
 #EXTINF:-1 tvg-id="CANAL 5 HD" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190827.ts
 #EXTINF:-1 tvg-id="CanaL5 MX" tvg-logo="https://logowik.com/content/uploads/images/canal-51211.logowik.com.webp"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190840.ts
 #EXTINF:-1 tvg-id="Azteca Corazón" tvg-logo="https://www.telegratishd.com/imge/azcorazon.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190823.ts
+#EXTINF:-1 tvg-id="AZTECA-7" tvg-logo="https://www.paredro.com/wp-content/uploads/2016/12/antes.jpeg"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190822.ts
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190822.ts
+#EXTINF:-1 tvg-id="CANAL LAS ESTRELLAS" tvg-logo="https://nukspvc.com/1031-large_default/memoria-usb-promocional-en-forma-de-logo-las-estrellas.jpg"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/190832.ts
 #EXTINF:-1 tvg-id="Amazon Kids" tvg-logo="https://www.gaynycdad.com/wp-content/uploads/2014/05/Untitl.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/186803.ts
 #EXTINF:-1 tvg-id="Retro animado" tvg-logo="https://w7.pngwing.com/pngs/800/1004/png-transparent-teletoon-retro-television-channel-cartoon-retro-television-network-television-text-logo.png"
@@ -164,7 +172,8 @@ https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169789.ts
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/172793.ts
 #EXTINF:-1 tvg-id="DE PELICULA CLASICO" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169835
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg"
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169827.ts
 
 
-
- 16-12--
+ jueves
